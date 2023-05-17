@@ -8,6 +8,7 @@ AI, GPT, LLM with apps, docs and codes
 
 ## Codes
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities
+- [StableLM](https://github.com/Stability-AI/StableLM) Stability AI Language Models
 
 ## Docs
 - [BloombergGPT](https://arxiv.org/abs/2303.17564) BloombergGPT: A Large Language Model for Finance
