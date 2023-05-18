@@ -25,4 +25,5 @@ AI, GPT, LLM with apps, docs and codes
 ## Web
 - [supertools.therundown.ai](https://supertools.therundown.ai/) Collectio of AI resources
 
-
+## LLM
+- [LLM-numbers](https://github.com/ray-project/llm-numbers) Numbers for LLM developers to know that are useful for back-of-the envelope calculations. Here we share particular numbers we at Anyscale use, why the number is important and how to use it to your advantage.
