@@ -16,6 +16,8 @@ AI, GPT, LLM with apps, docs and codes
 - [FinalScout](https://finalscout.com/) Extract valid email addresses from LinkedIn & craft tailored emails based on LinkedIn profile with ChatGPT, guaranteeing up to 98% email deliverability.
 - [Consensus](https://consensus.app/search/) Consensus is a search engine that uses AI to find answers in scientific research
 - [Paperpal](https://paperpal.com/) AI Grammar Checker & Online Academic Writing Tool for Researchers
+- [Dante](https://dante-ai.com/) Create custom AI chatbots powered by GPT-4 in minutes—zero coding required
+- [Zbrain](https://zbrain.ai/) Build ChatGPT Apps With Private Data in Minutes
 
 ## Codes
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities
