@@ -27,6 +27,7 @@ AI, GPT, LLM with apps, docs and codes
 - [Colossal-AI](https://github.com/hpcaitech/ColossalAI) Colossal-AI: Making large AI models cheaper, faster, and more accessible https://www.colossalai.org/
 - [Chart-GPT](https://github.com/whoiskatrin/chart-gpt) Chart-GPT - text to beautiful charts within seconds
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) An experimental open-source attempt to make GPT-4 fully autonomous.
+- [Talkto-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) Talk-to-ChatGPT is a Google Chrome and Microsoft Edge extension that allows users to talk with the ChatGPT AI using their voice (speech recognition), and listen to the bot's answer with a voice (text-to-speech), rather than just by typing.
 
 ## Docs
 - [BloombergGPT](https://arxiv.org/abs/2303.17564) BloombergGPT: A Large Language Model for Finance
