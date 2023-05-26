@@ -18,6 +18,7 @@ AI, GPT, LLM with apps, docs and codes
 - [Paperpal](https://paperpal.com/) AI Grammar Checker & Online Academic Writing Tool for Researchers
 - [Dante](https://dante-ai.com/) Create custom AI chatbots powered by GPT-4 in minutes—zero coding required
 - [Zbrain](https://zbrain.ai/) Build ChatGPT Apps With Private Data in Minutes
+- [CustomGPT](https://customgpt.ai/) CustomGPT Creates Your Own ChatGPT With ALL Your Business Content.10X Your Customer Engagement & Knowledge Management with CustomGPT
 
 ## Codes
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities
