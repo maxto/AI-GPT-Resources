@@ -42,7 +42,8 @@ AI, GPT, LLM with apps, docs and codes
 - [awesome-RLHF](https://github.com/opendilab/awesome-RLHF) This is a collection of research papers for Reinforcement Learning with Human Feedback (RLHF)
 
 ## Web
-- [supertools.therundown.ai](https://supertools.therundown.ai/) Collectio of AI resources
+- [supertools.therundown.ai](https://supertools.therundown.ai/) Collection of AI resources
+- [AIValley](https://aivalley.ai/) The Latest Source of AI Tools & Prompts
 
 ## LLM
 - [LLM-numbers](https://github.com/ray-project/llm-numbers) Numbers for LLM developers to know that are useful for back-of-the envelope calculations. Here we share particular numbers we at Anyscale use, why the number is important and how to use it to your advantage.
