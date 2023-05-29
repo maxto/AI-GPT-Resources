@@ -19,6 +19,11 @@ AI, GPT, LLM with apps, docs and codes
 - [Dante](https://dante-ai.com/) Create custom AI chatbots powered by GPT-4 in minutes—zero coding required
 - [Zbrain](https://zbrain.ai/) Build ChatGPT Apps With Private Data in Minutes
 - [CustomGPT](https://customgpt.ai/) CustomGPT Creates Your Own ChatGPT With ALL Your Business Content.10X Your Customer Engagement & Knowledge Management with CustomGPT
+- [Trinka](https://www.trinka.ai/) Trinka AI is an online grammar checker for academic and technical writing
+- [Lisia](https://en.lisia.it/) Lisia finds the answer to any legal question in natural language
+- [PortolioPilot](https://portfoliopilot.com/) Grow your money using automated portfolio monitoring, macro analysis, and personalized recommendations
+- [Visus](www.visus.ai) With Visus, you can easily create your own ChatGPT AI that is trained specifically on your own documents and knowledge base.
+- [DrGupta](https://www.drgupta.ai/) Dr. Gupta can provide personalized health information and suggestions.
 
 ## Codes
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities
@@ -29,6 +34,7 @@ AI, GPT, LLM with apps, docs and codes
 - [Chart-GPT](https://github.com/whoiskatrin/chart-gpt) Chart-GPT - text to beautiful charts within seconds
 - [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) An experimental open-source attempt to make GPT-4 fully autonomous.
 - [Talkto-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) Talk-to-ChatGPT is a Google Chrome and Microsoft Edge extension that allows users to talk with the ChatGPT AI using their voice (speech recognition), and listen to the bot's answer with a voice (text-to-speech), rather than just by typing.
+- [ThinkGPT](https://github.com/jina-ai/thinkgpt) Agent techniques to augment your LLM and push it beyong its limits
 
 ## Docs
 - [BloombergGPT](https://arxiv.org/abs/2303.17564) BloombergGPT: A Large Language Model for Finance
