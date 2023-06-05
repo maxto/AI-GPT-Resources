@@ -37,6 +37,7 @@ AI, GPT, LLM with apps, docs and codes
 - [Talkto-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) Talk-to-ChatGPT is a Google Chrome and Microsoft Edge extension that allows users to talk with the ChatGPT AI using their voice (speech recognition), and listen to the bot's answer with a voice (text-to-speech), rather than just by typing.
 - [ThinkGPT](https://github.com/jina-ai/thinkgpt) Agent techniques to augment your LLM and push it beyong its limits
 - [GPT4All](https://github.com/nomic-ai/gpt4all) gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
+- [Quivr](https://github.com/StanGirard/quivr) Quivr, your second brain, utilizes the power of GenerativeAI to store and retrieve unstructured information. Think of it as Obsidian, but turbocharged with AI capabilities.
 
 ## Docs
 - [BloombergGPT](https://arxiv.org/abs/2303.17564) BloombergGPT: A Large Language Model for Finance
