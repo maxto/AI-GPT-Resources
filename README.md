@@ -24,6 +24,7 @@ AI, GPT, LLM with apps, docs and codes
 - [PortolioPilot](https://portfoliopilot.com/) Grow your money using automated portfolio monitoring, macro analysis, and personalized recommendations
 - [Visus](www.visus.ai) With Visus, you can easily create your own ChatGPT AI that is trained specifically on your own documents and knowledge base.
 - [DrGupta](https://www.drgupta.ai/) Dr. Gupta can provide personalized health information and suggestions.
+- [GPTZero](https://gptzero.me/) The World's 1 AI Detector withover 1 Million Users
 
 ## Codes
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities
