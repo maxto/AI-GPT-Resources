@@ -22,9 +22,10 @@ AI, GPT, LLM with apps, docs and codes
 - [Trinka](https://www.trinka.ai/) Trinka AI is an online grammar checker for academic and technical writing
 - [Lisia](https://en.lisia.it/) Lisia finds the answer to any legal question in natural language
 - [PortolioPilot](https://portfoliopilot.com/) Grow your money using automated portfolio monitoring, macro analysis, and personalized recommendations
-- [Visus](www.visus.ai) With Visus, you can easily create your own ChatGPT AI that is trained specifically on your own documents and knowledge base.
+- [Visus](https://www.visus.ai/)) With Visus, you can easily create your own ChatGPT AI that is trained specifically on your own documents and knowledge base.
 - [DrGupta](https://www.drgupta.ai/) Dr. Gupta can provide personalized health information and suggestions.
 - [GPTZero](https://gptzero.me/) The World's 1 AI Detector withover 1 Million Users
+- [Botsonic](https://writesonic.com/botsonic) Botsonic AI chatbot builder makes it effortless to centralize all your data on your website, no-code. Make your knowledge-base chat ready by training ChatGPT on your own data.
 
 ## Codes
 - [pdfGPT](https://github.com/bhaskatripathi/pdfGPT) PDF GPT allows you to chat with the contents of your PDF file by using GPT capabilities
